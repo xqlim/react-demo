@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-
+console.log(1)
 export default App;
